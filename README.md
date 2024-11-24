@@ -9,20 +9,20 @@ https://chat-stream-6uay.onrender.com/
 
 
 ## Screenshots of the application
-![Screenshot 2023-10-28 183101](https://github.com/ankanmitra2002/Chat_Stream/assets/136356039/a1c07270-44f0-4520-b2d7-766349086164)
+![Screenshot 2023-10-28 183101](https://github.com/ompsuthar9000/ChatRoom/assets/136356039/a1c07270-44f0-4520-b2d7-766349086164)
 <br>
-![Screenshot 2023-10-28 183038](https://github.com/ankanmitra2002/Chat_Stream/assets/136356039/980212d3-cdca-4288-a6e4-f28eac66fbd6)
+![Screenshot 2023-10-28 183038](https://github.com/ompsuthar9000/ChatRoom/assets/136356039/980212d3-cdca-4288-a6e4-f28eac66fbd6)
 <br>
-![Screenshot 2023-10-28 183025](https://github.com/ankanmitra2002/Chat_Stream/assets/136356039/239d2431-1a78-40f4-ab1d-fed703b584b5)
+![Screenshot 2023-10-28 183025](https://github.com/ompsuthar9000/ChatRoom/assets/136356039/239d2431-1a78-40f4-ab1d-fed703b584b5)
 <br>
-![Screenshot 2023-10-28 182825](https://github.com/ankanmitra2002/Chat_Stream/assets/136356039/ec8faec4-771c-4e8a-a587-72ddbbd53e73)
+![Screenshot 2023-10-28 182825](https://github.com/ompsuthar9000/ChatRoom/assets/136356039/ec8faec4-771c-4e8a-a587-72ddbbd53e73)
 <br>
 
 ### For starting the app 
 
 ## Clone the repository
 ```git
-git clone https://github.com/ankanmitra2002/Chat_Stream.git
+git clone https://github.com/ompsuthar9000/ChatRoom.git
 ```
 ## For installing dependencies
 ```bash
